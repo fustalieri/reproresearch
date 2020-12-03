@@ -1,5 +1,5 @@
 # Reproducible Research
-Author: Maria Fustlieri <br />
+Author: Maria Fustalieri <br />
 
 ## Projects 
 Project # | Markdown | R Markdown
